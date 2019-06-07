@@ -2,7 +2,11 @@
 Forecasting Exchange rate (USD/YUAN)using Machine Learning Models and Conventional Econometric Model
 # PARTICIPANT
 Pavleen Kaur
+
+Click Below for project report
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pavleen3633/FINAL_PROJECT_TOOL2./master?filepath=Project_Data_Science_Tools2.ipynb)
+
+
 The project report is the file names Project_Data Science_Tools2.ipynb also uploaded
 CSV files needed for the project report are also uploaded as:
 cleanupdata1.csv
