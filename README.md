@@ -27,3 +27,6 @@ T6.csv
 T7.csv
 T8.csv
 Files T1 to T8 are in folder cleanup_folder
+For clean up notebook
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pavleen3633/FINAL_PROJECT_TOOL2./master?filepath=CLEANUP.ipynb)
